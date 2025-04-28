@@ -1,6 +1,7 @@
 # Example code for co-registration using eFOLKI
 
 >Accompanying code to journal article from Haynes et al., "Co-registration of multi-modal UAS pushbroom imaging spectroscopy and RGB imagery using optical flow"
+>https://www.mdpi.com/2504-446X/9/2/132
 
 This code loads a hyperspectral image in ENVI format (with header file) extracts matching wavelength then calculates optical flow
 
